@@ -1,0 +1,12 @@
+net"seg[0]" loc="H14";
+net"seg[1]" loc="J17";
+net"seg[2]" loc="G14";
+net"seg[3]" loc="D16";
+net"seg[4]" loc="D17";
+net"seg[5]" loc="F18";
+net"seg[6]" loc="L18";
+
+net"anode[0]" loc="F17";
+net"anode[1]" loc="H17";
+net"anode[2]" loc="C18";
+net"anode[3]" loc="F15";
